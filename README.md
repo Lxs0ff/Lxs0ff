@@ -1,4 +1,4 @@
-Sup ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Sup !<img src="https://media.tenor.com/FEIo6vWVIOMAAAAi/hi.gif" width=75 alt="This Is Fine Elmo">
 ============================================================================================================================
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmExaHZjcHdoM2pzc3NzMXA3YWswdW16c2RxZzFqMDk4bThrMDN1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n4iuWZFnTeN6qvdpD/giphy.gif" alt="This Is Fine Elmo">
