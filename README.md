@@ -5,7 +5,7 @@ Developer | Idiot
 -----------------
 
 * 🌍  I'm based in Canada
-* 🖥️  See my portfolio at [my website](http://lxdev.net)
+* 🖥️  See my portfolio at [my website](http://lxsdev.net)
 * 🚀  I'm currently working on [PeerLink](http://github.com/lxs0ff/PeerLink)
 * 🧠  I'm currently learning Networking
 
